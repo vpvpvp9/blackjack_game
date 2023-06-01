@@ -1,0 +1,29 @@
+body {
+    background-image: url("pxfuel\ \(1\).jpg");
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 2em;
+    color: #dad7cd;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+button {
+    border-radius: 15px;
+    color: #016f32;
+    width: 300px;
+    background: goldenrod;
+    font-size: 1.2em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border: none;
+    margin-top: 20px;
+}
